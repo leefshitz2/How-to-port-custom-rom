@@ -29,9 +29,9 @@
 | Инструмент | Назначение | Ссылка |
 |------------|------------|--------|
 | **UKA** | Портирование **на телефоне** (нужен Root) | [4PDA](https://4pda.to/forum/index.php?showtopic=900084) |
-| **MIK** | Портирование на **Windows** (простой) | [GitHub](https://github.com/CryptoNickSoft/MIK) |
+| **MIK** | Портирование на **Windows** (простой) | [4PDA](https://4pda.to/forum/index.php?showtopic=1017768) |
 | **MIO Kitchen** | Портирование на **Windows/Linux** (самый мощный) | [GitHub](https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE) |
-| **MT Manager** | Файловый менеджер на телефоне | [4PDA](https://4pda.to/forum/index.php?showtopic=541445) |
+| **MT Manager** | Файловый менеджер на телефоне | [4PDA](https://4pda.to/forum/index.php?showtopic=548542) |
 | **Platform-tools** | ADB и Fastboot | [Google](https://developer.android.com/tools/releases/platform-tools) |
 | **Payload Dumper** | Распаковка payload.bin | [GitHub](https://github.com/vm03/payload_dumper) |
 
